@@ -5,7 +5,7 @@ Nome da Dupla:Robert Caio Gomes Mota e Lucas Noel Gomes
 
 link do Drive: https://drive.google.com/file/d/1FAs5RJfj96E9aVUH1QSO44wH8kQPU7Ol/view?usp=sharing
 
-nossa jogo do Unity se trata da musica..... e a One de matellica a primeira sendo uma rua com umfecho de luz no fundo. esse cena foi feita com games objects de cubos sendo achatados para parecerem uma rua e calçada junto adicionando seus respectivos materiais para textura, os postes da rua foram feitos então com cilindros no proprio Unity, usando texturas metalicas foi bem passada a sensação, em cada poste há um gameObject light, de luz. no fim ad rua também se localiza um grande fecho de luz. os movimentos dos carros foram feitos a partir de um script de movimentção onde so vai para frente e para trás. no fim da rua ao aperatr "space" o jogador e levado para proxima cena. também foram compostos elementos de neblina(Fog)no cenario)
+nossa jogo do Unity se trata da musica Golden hour e a One de matellica a primeira sendo uma rua com umfecho de luz no fundo. esse cena foi feita com games objects de cubos sendo achatados para parecerem uma rua e calçada junto adicionando seus respectivos materiais para textura, os postes da rua foram feitos então com cilindros no proprio Unity, usando texturas metalicas foi bem passada a sensação, em cada poste há um gameObject light, de luz. no fim ad rua também se localiza um grande fecho de luz. os movimentos dos carros foram feitos a partir de um script de movimentção onde so vai para frente e para trás. no fim da rua ao aperatr "space" o jogador e levado para proxima cena. também foram compostos elementos de neblina(Fog)no cenario)
 
 ![image](https://github.com/Rob3rt2/jogo_musica.Unity/assets/127865166/432a2bf7-4024-4f07-8c71-4697eb7f43c5)
 
