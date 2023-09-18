@@ -24,5 +24,6 @@ Na proxina cena já na musica One-Metallica, ele se encontra no cenario caotico 
 ![image](https://github.com/Rob3rt2/jogo_musica.Unity/assets/127865166/2f997f71-7ade-4258-b45d-88ed6460915f)
 
 
-![Uploading image.png…]()
+![image](https://github.com/Rob3rt2/jogo_musica.Unity/assets/127865166/1935653b-8762-496f-8f8a-09fd74f109ff)
+
 
